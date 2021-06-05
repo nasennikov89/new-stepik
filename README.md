@@ -1,4 +1,2 @@
 # new-stepik
-#Test test test
-=====
-##add some text ,some discriptions
+I plan to add to this repository some scripts for studying a very useful course on Stepik named "Automazation of testing using Selenium and Python
